@@ -7,5 +7,6 @@ public class GitPractice
 		System.out.println("Hello World!");
 		System.out.println("Merge conflict incoming!!!");
 		System.out.println("Hallo Welt!");
+		System.out.println("Danke!");
 	}
 }
